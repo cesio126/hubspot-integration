@@ -1,0 +1,6 @@
+hubspot:
+  client:
+    id: 35df1603-5b1a-40b4-97ae-e811ef018572
+    secret: 9e27e6f3-e6db-499b-9125-5b51c584219c
+    redirect:
+      uri: http://localhost:8080/oauth/callback
